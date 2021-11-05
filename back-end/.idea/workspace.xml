@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4a8b8fd-8857-4492-a9d9-318e039ff73f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TreeShop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TreeShop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeShop/src/main/java/com/DC/DC/TreeShop/TreeShopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeShop/src/test/java/com/DC/DC/TreeShop/TreeShopApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20VwMy7DfI9fQhpvM2vNwCN0ewq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TreeShop" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TreeShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="TreeShop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.DC.DC.TreeShop.TreeShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a8b8fd-8857-4492-a9d9-318e039ff73f" name="Changes" comment="" />
+      <created>1636143022797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636143022797</updated>
+      <workItem from="1636143024082" duration="284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
